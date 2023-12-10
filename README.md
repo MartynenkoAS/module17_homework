@@ -1,3 +1,3 @@
-# Проект: Flappy Bird Game
+# Проект: Домашнее задание Модуль 17. Тестирование
 
-[You can play in BIRD here] (https://martynenkoas.github.io/Flappy_bird_game/)
+Ссылка на Git: https://github.com/MartynenkoAS/module17_homework
